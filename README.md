@@ -9,7 +9,7 @@ Customers could personalize their cups with their own messages & slogans.
 
 The cup consists of a plastic shell lined with an LED strip that communicates via BlueTooth Low Energy & allows users to send messages from their mobile device & is available for Android & iOs.
 
-Neither the manufacturer Whirley DrinkWorks, nor 7-Eleven disclosed the undocumented word filter restriction on this promotional cup, but it was soon apparent a wide array of words were filtered using asterixis '*'.
+There is a word filter restriction on this promotional cup that displays filtered words using asterixis '*'.
 
 Searching the source via JADX-GUI revealed the de-facto list of vulgar words & the regex word filter accomplished via  client-side filtering so I proceeded to edit that wordlist.
 
