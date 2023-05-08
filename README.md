@@ -4,7 +4,9 @@
 #  ![thumb](https://user-images.githubusercontent.com/78701239/236298562-adb7b1b2-4061-4501-b09f-b9f90c47b3e3.png)
 
 
-In 2018 7-Eleven distributed a limited promotional item they generically named the 'Custom Message Cup’.
+In 2019 7-Eleven distributed a limited promotional item they generically named the 'Custom Message Cup’*.
+* https://fccid.io/2AQNV-60961HC
+
 Customers could personalize their cups with their own messages & slogans.
 
 The cup consists of a plastic shell lined with an LED strip that communicates via BlueTooth Low Energy & allows users to send messages from their mobile device & is available for Android & iOs.
@@ -18,7 +20,7 @@ Searching the source via JADX-GUI revealed the de-facto list of vulgar words & t
 
 APK Easy Tool was effective in providing a turn-key solution to decompile, sign & recompile the 'Hello Cup'(v1.3.1) Application.
 
-The first step was to  retrieve the Smali resource files that is essentially specialized assembly language code that is used to represent the Dalvik bytecode of Android application & specific to the Android runtime environment.
+The first step was to retrieve the Smali resource files that is essentially specialized assembly language code that is used to represent the Dalvik bytecode of Android applications & specific to the Android runtime environment.
 
 ![pogobad](https://user-images.githubusercontent.com/78701239/236341352-f93b04d0-090f-4bee-a6af-fb77140e3639.PNG)
 
@@ -27,6 +29,6 @@ Because I quit ‘Pokemon GO’ only the string 'pogo' will be restricted & ever
 As a result the message 'ugly pogo stick' previously rendered as '**** pogo stick' will now display as 'ugly **** stick'.
 
 ![LEDBLECUP](https://user-images.githubusercontent.com/78701239/236349091-86daaa0a-ba58-4dcf-902f-b9074ce6c887.gif)
+(No authentication...)
 
 Although modifying the application was trivial, it served as an interesting illustration bypassing client-side filtering.
-
