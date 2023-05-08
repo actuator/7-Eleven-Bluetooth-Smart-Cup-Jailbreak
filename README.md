@@ -26,9 +26,12 @@ The first step was to retrieve the Smali resource files that is essentially spec
 
 Because I quit ‘Pokemon GO’ only the string 'pogo' will be restricted & everything else previously banned such as 'ugly' (really?) will no longer be filtered.
 
+![711-APP-UI](https://user-images.githubusercontent.com/78701239/236961433-dcbefe16-d731-40b2-9603-0741dcf6823b.gif)
+
 As a result the message 'ugly pogo stick' previously rendered as '**** pogo stick' will now display as 'ugly **** stick'.
 
 ![LEDBLECUP](https://user-images.githubusercontent.com/78701239/236349091-86daaa0a-ba58-4dcf-902f-b9074ce6c887.gif)
+
 (No authentication...)
 
 Although modifying the application was trivial, it served as an interesting illustration bypassing client-side filtering.
