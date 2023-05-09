@@ -26,7 +26,9 @@ The first step was to retrieve the Smali resource files that is essentially spec
 
 Because I quit ‘Pokemon GO’ only the string 'pogo' will be restricted & everything else previously banned such as 'ugly' (really?) will no longer be filtered.
 
-![711-APP-UI](https://user-images.githubusercontent.com/78701239/236961433-dcbefe16-d731-40b2-9603-0741dcf6823b.gif)
+![APP-UI](https://user-images.githubusercontent.com/78701239/236962480-1fa5ae91-cf51-4c87-8a7a-7e287d8e085f.gif)
+
+
 
 As a result the message 'ugly pogo stick' previously rendered as '**** pogo stick' will now display as 'ugly **** stick'.
 
