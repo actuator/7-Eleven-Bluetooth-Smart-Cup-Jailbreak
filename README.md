@@ -30,7 +30,7 @@ Because I quit ‘Pokemon GO’ only the string 'pogo' will be restricted & ever
 
 
 
-As a result the message 'ugly pogo stick' previously rendered as '**** pogo stick' will now display 'ugly **** stick'.
+As a result the message 'UGLY POGO STICK' previously rendered as '**** POGO STICK' will now display 'UGLY **** STICK'.
 
 ![LEDBLECUP](https://user-images.githubusercontent.com/78701239/236349091-86daaa0a-ba58-4dcf-902f-b9074ce6c887.gif)
 
