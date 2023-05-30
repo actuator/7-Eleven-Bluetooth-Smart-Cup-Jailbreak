@@ -13,7 +13,10 @@ The cup consists of a plastic shell lined with an LED strip that communicates vi
 
 There is a word filter restriction on this promotional cup that displays filtered words using asterixis '*'.
 
-Searching the source via JADX-GUI revealed the de-facto list of vulgar words & the regex word filter accomplished via  client-side filtering so I proceeded to edit that wordlist.
+Searching the source via JADX-GUI revealed the de-facto list of vulgar words & the regex word filter accomplished via  client-side filtering so I proceeded to edit that wordlist. 
+
+CWE-602: Client-Side Enforcement of Server-Side Security
+
 
 ![pottymouth](https://user-images.githubusercontent.com/78701239/236337322-3666ac1d-a154-47a7-b8c2-e90a95548d2a.PNG)
 
