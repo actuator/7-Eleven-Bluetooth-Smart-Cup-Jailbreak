@@ -13,9 +13,7 @@ The cup consists of a plastic shell lined with an LED strip that communicates vi
 
 There is a word filter restriction on this promotional cup that displays filtered words using asterixis '*'.
 
-Searching the source via JADX-GUI revealed the de-facto list of vulgar words & the regex word filter accomplished via  client-side filtering so I proceeded to edit that wordlist. 
-
-CWE-602: Client-Side Enforcement of Server-Side Security
+Searching the source via JADX-GUI revealed the de-facto list of vulgar words & the regex word filter accomplished via  client-side filtering* so I proceeded to edit that wordlist. 
 
 
 ![pottymouth](https://user-images.githubusercontent.com/78701239/236337322-3666ac1d-a154-47a7-b8c2-e90a95548d2a.PNG)
@@ -32,11 +30,12 @@ Because I quit ‘Pokemon GO’ only the string 'pogo' will be restricted & ever
 ![APP-UI](https://user-images.githubusercontent.com/78701239/236963588-014a4e0c-9a1f-4ab4-a630-0f385805e8c9.gif)
 
 
-
 As a result the message 'UGLY POGO STICK' previously rendered as '**** POGO STICK' will now display 'UGLY **** STICK'.
 
 ![LEDBLECUP](https://user-images.githubusercontent.com/78701239/236349091-86daaa0a-ba58-4dcf-902f-b9074ce6c887.gif)
 
-(No authentication...)
-
 Although modifying the application was trivial, it served as an interesting illustration bypassing client-side filtering.
+
+
+** CWE-602: Client-Side Enforcement of Server-Side Security
+*** CWE-306: Missing Authentication for Critical Function 
