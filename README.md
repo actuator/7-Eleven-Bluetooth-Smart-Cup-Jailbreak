@@ -37,5 +37,4 @@ As a result the message 'UGLY POGO STICK' previously rendered as '**** POGO STIC
 Although modifying the application was trivial, it served as an interesting illustration bypassing client-side filtering.
 
 
-** CWE-602: Client-Side Enforcement of Server-Side Security
-*** CWE-306: Missing Authentication for Critical Function 
+** CWE-602: Client-Side Enforcement of Server-Side Security | CWE-306: Missing Authentication for Critical Function 
