@@ -13,6 +13,10 @@ The cup consists of a plastic shell lined with an LED strip that communicates vi
 
 There is a word filter restriction on this promotional cup that displays filtered words using asterixis '*'.
 
+![Capture](https://github.com/actuator/7-Eleven-Bluetooth-Smart-Cup-Jailbreak/assets/78701239/55b4e78e-755c-41b1-9e74-f2946e58b128)
+
+
+
 Searching the source via JADX-GUI revealed the de-facto list of vulgar words & the regex word filter accomplished via  client-side filtering* so I proceeded to edit that wordlist. 
 
 
