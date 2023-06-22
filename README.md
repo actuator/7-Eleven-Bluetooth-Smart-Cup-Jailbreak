@@ -1,7 +1,12 @@
-**7-Eleven Bluetooth Smart Cup Jailbreak**
+** 7-Eleven Bluetooth Smart Cup Jailbreak ** 
+
+An unauthenticated attacker within BLE proximity can remotely connect to a 7-Eleven LED Message Cup, Hello Cup 1.3.1 for Android, and bypass the application's client-side chat censor filter.
+
+[CVE-2023-34761]
 
 
 #  ![thumb](https://user-images.githubusercontent.com/78701239/236298562-adb7b1b2-4061-4501-b09f-b9f90c47b3e3.png)
+
 
 
 In 2019 7-Eleven distributed a limited promotional item they generically named the 'Custom Message Cup’*.
