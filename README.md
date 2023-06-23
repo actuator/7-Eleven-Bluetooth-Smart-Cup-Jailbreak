@@ -4,7 +4,7 @@
 
 #  ![thumb](https://user-images.githubusercontent.com/78701239/236298562-adb7b1b2-4061-4501-b09f-b9f90c47b3e3.png)
 
-https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-34761
+
 
 In 2019 7-Eleven distributed a limited promotional item they generically named the 'Custom Message Cup’*.
 * https://fccid.io/2AQNV-60961HC
@@ -44,4 +44,6 @@ Although modifying the application was trivial, it served as an interesting illu
 
 
 ** CWE-602: Client-Side Enforcement of Server-Side Security 
+
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-34761
 
