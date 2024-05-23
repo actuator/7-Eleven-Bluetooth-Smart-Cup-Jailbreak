@@ -1,6 +1,6 @@
 ** 7-Eleven Bluetooth Smart Cup Jailbreak ** 
 
-
+**Warning: Viewer Discretion is Advised** 
 
 #  ![thumb](https://user-images.githubusercontent.com/78701239/236298562-adb7b1b2-4061-4501-b09f-b9f90c47b3e3.png)
 
@@ -17,10 +17,7 @@ There is a word filter restriction on this promotional cup that displays filtere
 
 ![Capture](https://github.com/actuator/7-Eleven-Bluetooth-Smart-Cup-Jailbreak/assets/78701239/55b4e78e-755c-41b1-9e74-f2946e58b128)
 
-
-
 Searching the source via JADX-GUI revealed the de-facto list of vulgar words & the regex word filter accomplished via  client-side filtering* so I proceeded to edit that wordlist. 
-
 
 ![pottymouth](https://user-images.githubusercontent.com/78701239/236337322-3666ac1d-a154-47a7-b8c2-e90a95548d2a.PNG)
 
@@ -33,12 +30,11 @@ The first step was to retrieve the Smali resource files that is essentially spec
 
 Because I quit ‘Pokemon GO’ only the string 'pogo' will be restricted & everything else previously banned such as 'ugly' (really?) will no longer be filtered.
 
-![APP-UI](https://user-images.githubusercontent.com/78701239/236963588-014a4e0c-9a1f-4ab4-a630-0f385805e8c9.gif)
+![Ugly](https://github.com/actuator/7-Eleven-Bluetooth-Smart-Cup-Jailbreak/assets/78701239/67d5442f-bda9-476f-b51b-7ab37b399b0e)
 
+As a result the message 'Ugly Censorship' previously rendered as '**** Censorship' will now display 'Ugly Censorship'.
 
-As a result the message 'UGLY POGO STICK' previously rendered as '**** POGO STICK' will now display 'UGLY **** STICK'.
-
-![LEDBLECUP](https://user-images.githubusercontent.com/78701239/236349091-86daaa0a-ba58-4dcf-902f-b9074ce6c887.gif)
+![Ugly2](https://github.com/actuator/7-Eleven-Bluetooth-Smart-Cup-Jailbreak/assets/78701239/b157a88f-52fb-4426-be7e-2bc01153cd1e)
 
 Although modifying the application was trivial, it served as an interesting illustration bypassing client-side filtering.
 
