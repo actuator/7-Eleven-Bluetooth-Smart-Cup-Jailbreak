@@ -2,9 +2,7 @@
 
 **Warning: Viewer Discretion is Advised** 
 
-#  ![thumb](https://user-images.githubusercontent.com/78701239/236298562-adb7b1b2-4061-4501-b09f-b9f90c47b3e3.png)
-
-
+#  ![thanks!](https://github.com/actuator/7-Eleven-Bluetooth-Smart-Cup-Jailbreak/assets/78701239/c2a3b84c-0c8b-496e-8dfa-7e29a67b0d5e)
 
 In 2019 7-Eleven distributed a limited promotional item they generically named the 'Custom Message Cup’*.
 * https://fccid.io/2AQNV-60961HC
